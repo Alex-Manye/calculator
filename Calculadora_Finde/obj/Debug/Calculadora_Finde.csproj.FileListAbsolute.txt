@@ -1,0 +1,6 @@
+C:\Users\holacons\Desktop\Calculadora_Finde\Calculadora_Finde\bin\Debug\Calculadora_Finde.exe.config
+C:\Users\holacons\Desktop\Calculadora_Finde\Calculadora_Finde\bin\Debug\Calculadora_Finde.exe
+C:\Users\holacons\Desktop\Calculadora_Finde\Calculadora_Finde\bin\Debug\Calculadora_Finde.pdb
+C:\Users\holacons\Desktop\Calculadora_Finde\Calculadora_Finde\obj\Debug\Calculadora_Finde.csprojAssemblyReference.cache
+C:\Users\holacons\Desktop\Calculadora_Finde\Calculadora_Finde\obj\Debug\Calculadora_Finde.exe
+C:\Users\holacons\Desktop\Calculadora_Finde\Calculadora_Finde\obj\Debug\Calculadora_Finde.pdb
